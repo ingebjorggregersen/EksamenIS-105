@@ -4,7 +4,7 @@ import java.util.ArrayList;
 /**
  * A square that can be manipulated and that draws itself on a canvas.
  * 
- * @author  Michael Kölling and David J. Barnes
+ * @author  Jørgen Tveit Espeland
  * @version 2016.02.29
  */
 

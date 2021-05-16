@@ -8,4 +8,4 @@ Ved brukernavn IngebjorgGregersen: MacOS BigSur versjon 11.3.1, prosessor: 2 GHz
 
 Ved brukernavn TommyToys: prosessor: Intel(R) Core(TM) i5-9600K CPU @ 3.70GHz, med 16GB minne, og GPU: Nvidia GeForce RTX 2070.
 
-Ved brukernavn Jorg ... ?
+Ved brukernavn Jorgte250296 prosessor: Intel(R) Core(TM) i7-1065G7 CPU @ 1.30GHz   1.50 GHz med 16GB minne, og GPU Intel(R)Iris(R)Pluss Graphics
